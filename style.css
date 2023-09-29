@@ -17,13 +17,13 @@
     color: black;
 }
 .header h1{
-    font-size: 100.5px;
+    font-size: 80.5px;
     text-align: center;
     padding-bottom: 0px;
 
 }
 .header h2{
-    font-size: 80px;
+    font-size: 65px;
     padding: 10px;
 }
 .navbar{
@@ -39,7 +39,7 @@
     cursor: pointer;
 }
 .navbar ul li{
-    font-size: 45px;
+    font-size: 35px;
     list-style: none;
     display: inline-block;
     margin: 0 10px;
