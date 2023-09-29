@@ -23,13 +23,13 @@
 
 }
 .header h2{
-    font-size: 35px;
+    font-size: 55px;
     padding: 10px;
 }
 .navbar{
     width: 40%;
     margin:auto;
-    Padding: 6px 0;
+    Padding: 20px 0;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -42,7 +42,7 @@
     font-size: 35px;
     list-style: none;
     display: inline-block;
-    margin: 0 10px;
+    margin: 0 40px;
     position: relative;
 }
 .navbar ul li a{
@@ -52,7 +52,7 @@
 }
 .navbar ul li::after{
     content: '';
-    height: 1px;
+    height: 3px;
     width: 0;
     background: #009688;
     position: absolute;
