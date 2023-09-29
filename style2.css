@@ -14,7 +14,7 @@
 .header{
     padding-bottom: 53px;
     text-align: center;
-    color: black;
+    color: white;
 }
 .header h1{
     font-size: 60.5px;
@@ -47,7 +47,7 @@
 }
 .navbar ul li a{
     text-decoration: none;
-    color:black;
+    color:white;
     text-transform: uppercase;
 }
 .navbar ul li::after{
