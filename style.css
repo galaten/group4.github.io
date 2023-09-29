@@ -12,19 +12,19 @@
     background-size: cover;
 }
 .header{
-    padding-bottom: 33px;
+    padding-bottom: 53px;
     text-align: center;
     color: black;
 }
 .header h1{
-    font-size: 60.5px;
+    font-size: 75.5px;
     text-align: center;
     padding-bottom: 15px;
 
 }
 .header h2{
     font-size: 55px;
-    padding: 10px;
+    padding: 30px;
 }
 .navbar{
     width: 40%;
@@ -42,7 +42,7 @@
     font-size: 35px;
     list-style: none;
     display: inline-block;
-    margin: 0 40px;
+    margin: 0 70px;
     position: relative;
 }
 .navbar ul li a{
