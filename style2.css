@@ -65,6 +65,7 @@
 }
 
 .container{
+padding-top: 90px;    
 width: 800px;
 height: 400px;
 background: #222;    
