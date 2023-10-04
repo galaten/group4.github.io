@@ -65,10 +65,11 @@
 }
 
 .container{
-padding-top: 90px;    
+padding-top: 30px;    
 width: 800px;
 height: 400px;
 background: #222;    
-
+position: bottom;
+margin: auto;    
 
 }
