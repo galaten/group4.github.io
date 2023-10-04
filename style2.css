@@ -63,12 +63,3 @@
 .navbar ul li:hover::after{
     width: 100%;
 }
-
-.container{
-top: -100px;
-width: 200px;
-height: 100px;
-display: inline-block;
-align-items: center;
-justify-content: center;
-}
