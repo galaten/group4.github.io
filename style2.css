@@ -4,13 +4,12 @@
     font-family: monospace;
 }
 /* Background Image */
-.background{
+.blured{
     width: 100%;
     height:100vh;
     background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(background3.jpg);
     background-position: center;
     background-size: cover;
-    filter:blur(3.5px);
 }
 .header{
     padding-bottom: 53px;
