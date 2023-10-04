@@ -10,7 +10,7 @@
     background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(background3.jpg);
     background-position: center;
     background-size: cover;
-    filter:blur(4px);
+    backdrop-filter:blur(2.5px);
 }
 .header{
     padding-bottom: 53px;
